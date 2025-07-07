@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👋 Hi there!
 
-<!-- GitHub Contribution Graph -->
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamLoop&show_icons=false&hide=issues&hide_title=true&hide_border=true&bg_color=00000000&text_color=ffffff" alt="ShubhamLoop's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamLoop&theme=github-compact&hide_border=true" alt="ShubhamLoop's Activity Graph" />
 </p>
 
 <!-- GitHub Streak Stats -->
