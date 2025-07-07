@@ -1,4 +1,3 @@
-### 👋 Hi there!
 
 <!-- GitHub Activity Graph -->
 <p align="center">
